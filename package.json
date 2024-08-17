@@ -1,0 +1,17 @@
+{
+  "name": "reactzapbot",
+  "version": "1.0.0",
+  "description": "## Overview This project implements a WhatsApp chatbot using ChatGPT. The chatbot automatically responds to incoming messages, providing intelligent and context-aware replies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.56.0",
+    "venom-bot": "^5.1.0"
+  }
+}
